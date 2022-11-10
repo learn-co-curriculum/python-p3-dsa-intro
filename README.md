@@ -2,14 +2,18 @@
 
 ## Learning Goals
 
-- Understand what you will learn in this section
+- Evaluate the properties of common data structures (lists and dictionaries).
+- Establish a general process to build data structures.
+- Identify when to use different data structures.
+- Identify some of the efficiency issues of using different algorithms in terms
+  of time complexity.
 
 ***
 
 ## Key Vocab
 
-- **Data Structures**:  are a specialized means of organizing and storing data
- in computers
+- **Data Structure**:  a specialized means of organizing and storing data
+ in computers.
 - **Algorithm**: a process or set of rules to be followed in calculations or
  other problem-solving operations, especially by a computer.
 
@@ -25,12 +29,12 @@ structures and algorithms! Understanding
 algorithm problems more efficiently, and will also improve your skills at
 writing Object Oriented code.
 
-The objectives for this section are to:
+In this section, you will:
 
-- Evaluate the tradeoffs between choosing one data structure or algorithm over another
-- Implement common data structures and algorithms
-- Identify the Big O of common data structure methods
-- Apply common data structures to algorithm problems
+- Evaluate the tradeoffs between choosing one data structure or algorithm over another.
+- Implement common data structures and algorithms.
+- Identify the Big O of common data structure methods.
+- Apply common data structures to algorithm problems.
 
 In the coming lessons, we'll cover these objectives by introducing several
 common data structures and algorithms, showing how to implement them in Python,
